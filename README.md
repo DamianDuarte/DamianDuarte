@@ -4,15 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-🎂 &nbsp;29 Años.\
+🎂 &nbsp;29 Años.\
 🗺️ &nbsp;Buenos Aires, Argentina.\
-👨‍💻 &nbsp;Actualmente trabajando como Programador FullStack en ForIT: Proyecto montessori.\
-💡 &nbsp;Me gusta aprender sobre nuevas tecnologias y metodos de resolucion de problemas.\
-🌱 &nbsp;Busco formas de como mejorar tanto a nivel tecnico como personal.\
+👨‍💻 &nbsp;Actualmente trabajando como Programador FullStack en ForIT: Proyecto Montessori.\
+💡 &nbsp;Me gusta aprender sobre nuevas tecnologías y métodos de resolución dproblemas.\
+🌱 &nbsp;Busco formas de cómo mejorar tanto a nivel técnico como personal.\
 ✉️ &nbsp;Puedes contactarme al mail acdamian1995@gmail.com.\
-📄 &nbsp;Para mas informacion dejo mi [Curriculum](https://www.dropbox.com/scl/fi/jmfchsbftq4fwxo9805tx/Damian-Duarte-CV.pdf?rlkey=yoxp9dc1phjrxsxp2qfh708m8&st=e4pvegls&dl=0). Estoy abierto a sugerencias!
-
-
+📄 &nbsp;Para más información dejo mi [Curriculum](https://www.dropbox.com/scl/fi/jmfchsbftq4fwxo9805tx/Damian-Duarte-CV.pdf?rlkey=yoxp9dc1phjrxsxp2qfh708m8&st=e4pvegls&dl=0). Estoy abierto a propuestas!
 <img src="https://github.com/DamianDuarte/DamianDuarte/assets/106710013/12d20634-26ce-4a82-baed-554dc111f811" align="right"/>
 
 ### 🛠 &nbsp;Tecnologias
@@ -49,10 +47,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/DamianDuarte">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=damianduarte&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/DamianDuarte">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=damianduarte&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
@@ -61,6 +59,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cristian-damian-duarte/"><img src="https://img.shields.io/badge/-Damian%20Duarte-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:acdamian1995@gmail.com"><img src="https://img.shields.io/badge/-DamianDuarte-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:acdamian1995@gmail.com"><img src="https://img.shields.io/badge/-Damian%20Duarte-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
